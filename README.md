@@ -1,16 +1,14 @@
 # app_music
 
-A new Flutter project.
+Application Flutter de lecture de fichier audio
 
-## Getting Started
+## Fonctionnalités 
 
-This project is a starting point for a Flutter application.
+Lit les fichiers audios enregistrés sur l'application
 
-A few resources to get you started if this is your first Flutter project:
+## Améliorations futures
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Rechercher et lire les fichiers audio présents sur un dossier du téléphone.  
+- Trier les fichiers selon des critères prédéfinis.  
+- Barre de recherche de musique  
+- Mise en place d'une playlist de titres aimés 
